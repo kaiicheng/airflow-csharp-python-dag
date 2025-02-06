@@ -1,7 +1,5 @@
 # airflow-csharp-python-dag
 
-# Airflow C# Python Integration
-
 This repository demonstrates how to integrate Airflow with Python and C# tasks, running on a Windows system with WSL (Windows Subsystem for Linux). The setup includes executing a C# program using .NET and a Python script, orchestrated via Airflow.
 
 ## Repository Structure
